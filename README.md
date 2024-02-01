@@ -24,6 +24,8 @@ The program visualizes the relationship between the `pH`, `alcohol`, and `residu
 This plot allows observation of the distribution of data points in a three-dimensional space and identification of potential patterns or correlations among these variables. 
 The resulting plot is displayed for immediate visual examination.
 
+![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task4.png)
+
 [TASK 4](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task4.py)
 
 The program visualizes the average alcohol content between `red` and `white` wines using a bar chart. 
