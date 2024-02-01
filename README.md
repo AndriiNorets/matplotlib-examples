@@ -24,7 +24,7 @@ The program visualizes the relationship between the `pH`, `alcohol`, and `residu
 This plot allows observation of the distribution of data points in a three-dimensional space and identification of potential patterns or correlations among these variables. 
 The resulting plot is displayed for immediate visual examination.
 
-![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task4.png)
+![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task_3_screenshot.png)
 
 [TASK 4](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task4.py)
 
