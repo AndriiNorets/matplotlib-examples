@@ -1,12 +1,12 @@
 [TASK 1](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task1.py)
 The program generates a bar chart to visualize the distribution of wine counts based on their quality. The x-axis represents the quality values, while the y-axis represents the count of wines for each quality category. Each bar corresponds to a specific quality value and is colored according to its quality category using predefined colors. The bars have black edges to enhance visibility. The legend displays the count of wines for each quality value. This chart allows for easy comparison of wine counts across different quality categories, providing an overview of the distribution of wine quality in the dataset. The resulting chart is saved as a PNG image file named "Task1.png" and is also displayed for immediate visual inspection.
 
-[Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task1.png)
+![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task1.png)
 
 [TASK 2](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task2.py)
 The program visualizes the relationship between volatile acidity and pH of wines using a scatter plot. The scatter plot helps observe the distribution of data points and identify potential correlations or patterns between these two variables. The resulting plot is saved as a JPEG image and also displayed for immediate visual examination.
 
-[Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task2.jpg)
+![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task2.jpg)
 
 [TASK 3](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task3.py)
 The program visualizes the relationship between the pH, alcohol, and residual sugar content in wines using a 3D scatter plot. This plot allows observation of the distribution of data points in a three-dimensional space and identification of potential patterns or correlations among these variables. The resulting plot is displayed for immediate visual examination.
