@@ -45,7 +45,7 @@ The resulting chart shows the proportions of different area ranges in the value 
 The program visualizes the distribution of the "Value" column for different `engine capacities` in the years 2018 and 2019 using pie charts. 
 The resulting charts show the proportion of each engine capacity category in the total value for each year.
 
-![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task6.pdf)
+![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task_6_result.png)
 
 [TASK 7](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task7.py)
 
