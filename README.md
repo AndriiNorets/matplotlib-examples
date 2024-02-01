@@ -1,3 +1,5 @@
+# Matplotlib examples
+
 [TASK 1](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task1.py)
 
 The program generates a bar chart to visualize the distribution of wine counts based on their quality. 
@@ -10,6 +12,8 @@ The resulting chart is saved as a PNG image file named "Task1.png" and is also d
 
 ![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task1.png)
 
+---
+
 [TASK 2](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task2.py)
 
 The program visualizes the relationship between volatile acidity and pH of wines using a scatter plot. 
@@ -17,6 +21,8 @@ The scatter plot helps observe the distribution of data points and identify pote
 The resulting plot is saved as a JPEG image and also displayed for immediate visual examination.
 
 ![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task2.jpg)
+
+---
 
 [TASK 3](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task3.py)
 
@@ -26,12 +32,16 @@ The resulting plot is displayed for immediate visual examination.
 
 ![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task_3_screenshot.png)
 
+---
+
 [TASK 4](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task4.py)
 
 The program visualizes the average alcohol content between `red` and `white` wines using a bar chart. 
 The resulting chart provides a clear comparison of the mean alcohol percentages for the two types of wines.
 
 ![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task4.png)
+
+---
 
 [TASK 5](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task5.py)
 
@@ -40,6 +50,8 @@ The resulting chart shows the proportions of different area ranges in the value 
 
 ![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task5.png)
 
+---
+
 [TASK 6](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task%206.py)
 
 The program visualizes the distribution of the "Value" column for different `engine capacities` in the years 2018 and 2019 using pie charts. 
@@ -47,12 +59,16 @@ The resulting charts show the proportion of each engine capacity category in the
 
 ![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task_6_result.png)
 
+---
+
 [TASK 7](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task7.py)
 
 The program visualizes the number of transports for the **Silesian** and **Mazovian** regions over the years. 
 The resulting bar charts provide a comparison of the number of transports for each region in different years.
 
 ![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task7.jpg)
+
+---
 
 [TASK 8](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task8.py)
 
@@ -63,6 +79,8 @@ The plot helps compare the number of hotels across different regions and observe
 
 ![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task8.png)
 
+---
+
 [TASK 9](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task%209.py)
 
 The program visualizes the daily exchange rate for a period of 30 days.
@@ -71,12 +89,16 @@ The plot helps observe any fluctuations or patterns in the exchange rate.
 
 ![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task9.jpg)
 
+---
+
 [TASK 10](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task10.py)
 
 The program compares the maximum number of students in different categories (male and female) for the years 2016 and 2017. 
 The resulting bar plots show the maximum values for each category and year, allowing for a visual comparison between the two years and the different genders.
 
 ![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task10.png)
+
+---
 
 [TASK 11](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task11.py)
 
@@ -86,3 +108,5 @@ The x-axis ticks are set differently for each subplot, and titles are provided f
 The resulting figure provides a visual comparison between the two sets of values.
 
 ![Result of the program](https://github.com/AndriiNorets/matplotlib-examples/blob/main/Task11.jpg)
+
+---
